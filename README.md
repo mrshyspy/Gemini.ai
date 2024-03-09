@@ -39,3 +39,4 @@ This project introduces a React-based web application that functions as a clone 
 
    ```bash
    git clone https://github.com/mrshyspy/Gemini-Clone.git
+"# gemini.ai-clone" 
