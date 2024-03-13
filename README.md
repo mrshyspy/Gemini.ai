@@ -25,7 +25,7 @@ This project introduces a React-based web application that functions as a clone 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/mrshyspy/gemini-Clone.git
+   git clone https://github.com/mrshyspy/Gemini.ai
 "# gemini.ai-clone" 
 "# gemini.ai-clone" 
 "# gemini-clone" 
